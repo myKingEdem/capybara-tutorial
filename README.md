@@ -1,4 +1,4 @@
-#Cabybara Tutorial
+#Capybara Tutorial
 
 ### Automated Integration Tests With Capybara In Ruby
 
